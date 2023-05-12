@@ -24,7 +24,7 @@ The content is provided by - <a href="https://www.udemy.com/user/jonasschmedtman
 ### Sticky Navigation
 - An Intersection Observer is constantly watching location of current page and displays sticy header once it passes hero section.
 - With z-index and box shadow property, sticky header will have a visual hierchy of being top of other elements.
-- However, making stickey navigation slightly transparent prevents navigation from blocking content.
+- However, making a sticky navigation slightly transparent prevents navigation from blocking content.
 ![card](https://github.com/inho115/Responsive-Website-Udemy-/assets/97544886/baf748f9-a5ed-4beb-96e3-101be1109f88)
 
 
