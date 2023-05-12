@@ -17,13 +17,16 @@ The content is provided by - <a href="https://www.udemy.com/user/jonasschmedtman
 
 ### Mobile Navigation
 - Navigation section is completely responsive and displays an extendable mobile navigation.
-- An event listener is managing the action of click on hamburger menu button.
 ![mobile nav](https://github.com/inho115/Responsive-Website-Udemy-/assets/97544886/1c7212ba-0075-4d17-a66f-842b61a69346)
+- An event listener is managing the action of click on hamburger menu button.
 ![mobile nav 2](https://github.com/inho115/Responsive-Website-Udemy-/assets/97544886/66951be5-4341-4d03-b55f-bba1fa791e34)
 
-### Sticky Header
+### Sticky Navigation
 - An Intersection Observer is constantly watching location of current page and displays sticy header once it passes hero section.
-![sticky header](https://github.com/inho115/Responsive-Website-Udemy-/assets/97544886/01a341ce-f249-4728-bb81-4c7a0d1c536b)
+- With z-index and box shadow property, sticky header will have a visual hierchy of being top of other elements.
+- However, making stickey navigation slightly transparent prevents navigation from blocking content.
+![card](https://github.com/inho115/Responsive-Website-Udemy-/assets/97544886/baf748f9-a5ed-4beb-96e3-101be1109f88)
+
 
 ### Card
 - To emphasize card items, box shadow was implemeted to illustrate a sense of levitation.
